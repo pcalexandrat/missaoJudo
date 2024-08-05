@@ -84,7 +84,7 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-const historiaFinal = "";
+let historiaFinal = "";
 
 function mostraPergunta(){
     perguntaAtual = perguntas[atual];
