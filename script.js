@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Você está no início da luta. Qual é sua primeira técnica?",
         alternativas: [
             {
-                texto: "Um golpe de ippon seoi nage (arremesso por cima do ombro).",
+                texto: "Um golpe de ippon seoi  nage (arremesso por cima do ombro).",
                 afirmacao: "Você executa um ippon seoi nage perfeitamente, derrubando seu oponente com um golpe limpo. Ponto completo para você!",
                 pontos: 1
             },
